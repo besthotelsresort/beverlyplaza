@@ -1,0 +1,2 @@
+# beverlyplaza
+Static site: beverlyplaza
